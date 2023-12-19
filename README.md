@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=iammyeongho&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=iammyeongho&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ####  👋: hello i am myeongho 👋:
 ####  👋: Welcome my github profile !
@@ -31,8 +31,8 @@
 #### 📝2: Study log
 
   <br/>
-  
-[![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammyeongho&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/iammyeongho/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammyeongho&show_icons=true&theme=vision-friendly-dark)
 <br/>
    <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammyeongho&langs_count=8)](https://github.com/iammyeongho/github-readme-stats)
