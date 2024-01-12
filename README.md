@@ -4,7 +4,7 @@
 
 ####  👋: hello i am myeongho 👋:
 ####  👋: Welcome my github profile !
-
+2차 프로젝트 URL : http://112.222.157.156:6004/classboarddetail/6
  <br/>
  <br/>
  
