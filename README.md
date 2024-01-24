@@ -7,6 +7,14 @@
 <br/>
 <br/>
 
+<h2>PHP 퓨어를 이용한 자금관리 TO DO LIST</h2>
+ <br/>
+GIT : https://github.com/0817php-the-supreme-spirit/1st_project
+ <br/>
+PPT : https://www.canva.com/design/DAFxhl11D74/FHmVQLspgbVPAV5rwlyF4Q/edit?locale=ko-KR&ui=eyJBIjp7IkUiOnsiQSI6dHJ1ZX19fQ
+
+ <br/>
+
 
 <h2>라라벨과 뷰를 이용한 온라인 클래스 사이트</h2>
 2-3차 프로젝트 URL : http://112.222.157.156:6004/
