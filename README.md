@@ -10,8 +10,11 @@
 
 <h2>라라벨과 뷰를 이용한 온라인 클래스 사이트</h2>
 2-3차 프로젝트 URL : http://112.222.157.156:6004/
+ <br/>
 2-3차 프로젝트 관리자 URL : http://112.222.157.156:6004/adminlogin
+ <br/>
 GIT : https://github.com/class4you/2st_Project
+ <br/>
 PPT : https://www.miricanvas.com/v/12syhfb
 
  <br/>
