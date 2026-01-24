@@ -96,10 +96,6 @@
 
 <br/>
 
-[[[![trophy](https://github-profile-trophy.vercel.app/?username=iammyeongho&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy-rust.vercel.app/?username=iammyeongho&theme=discord&no-frame=true&no-bg=true&column=7)](https://github-trophies.vercel.app/?username=iammyeongho&theme=discord&no-frame=true&no-bg=true&column=7)
-
-<br/>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iammyeongho&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
