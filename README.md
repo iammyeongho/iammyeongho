@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white">
 
 #### ☁️ Cloud & DevOps
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
@@ -55,6 +56,8 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
 #### 📊 Monitoring & Analytics
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=ApacheJMeter&logoColor=white">
+<img src="https://img.shields.io/badge/Node%20Exporter-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=GoogleAnalytics&logoColor=white">
